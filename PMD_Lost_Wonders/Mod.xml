@@ -1,0 +1,11 @@
+<Header>
+  <Name>PMD: Lost Wonders</Name>
+  <Author>Thrillerbee</Author>
+  <Description>A fangame based on beta Pokemon and sprites that didn't make the final cut. Venture into the Lost World and see what it has in store!</Description>
+  <Namespace>pmd_lost_wonders</Namespace>
+  <UUID>5A71E35F-FD58-42AA-ACE9-2314A6E183BC</UUID>
+  <Version>0.0</Version>
+  <GameVersion>0.0</GameVersion>
+  <ModType>Quest</ModType>
+  <Relationships />
+</Header>

@@ -1,0 +1,90 @@
+﻿{
+"Version": "0.8.9.0",
+"Object": {
+"$type": "RogueEssence.Data.MonsterData, RogueEssence",
+"Name": {
+"DefaultText": "Kotora",
+"LocalTexts": {}
+},
+"Released": false,
+"Comment": "data copied from shinx. Please update (and rename?)",
+"Title": {
+"DefaultText": "Flash Pokémon",
+"LocalTexts": {}
+},
+"IndexNum": 1026,
+"EXPTable": "medium_slow",
+"SkillGroup1": "field",
+"SkillGroup2": "amorphous",
+"JoinRate": 70,
+"PromoteFrom": "",
+"Promotions": [],
+"Forms": [
+{
+"$type": "PMDC.Data.MonsterFormData, PMDC",
+"Released": false,
+"Generation": 0,
+"GenderlessWeight": 0,
+"MaleWeight": 4,
+"FemaleWeight": 4,
+"BaseHP": 45,
+"BaseAtk": 65,
+"BaseDef": 34,
+"BaseMAtk": 40,
+"BaseMDef": 34,
+"BaseSpeed": 45,
+"ExpYield": 53,
+"Height": 0.5,
+"Weight": 9.5,
+"Personalities": [
+0,
+1,
+2,
+3,
+8,
+9,
+11,
+12,
+13,
+16,
+24,
+30,
+31,
+36
+],
+"TeachSkills": [
+{
+"Skill": "thunderbolt"
+}
+],
+"SharedSkills": [
+{
+"Skill": "quick_attack"
+}
+],
+"SecretSkills": [
+{
+"Skill": "swift"
+}
+],
+"FormName": {
+"DefaultText": "Kotora",
+"LocalTexts": {}
+},
+"Temporary": false,
+"PromoteForm": 0,
+"Element1": "electric",
+"Element2": "none",
+"Intrinsic1": "rivalry",
+"Intrinsic2": "intimidate",
+"Intrinsic3": "guts",
+"LevelSkills": [
+{
+"Level": 1,
+"Skill": "tackle"
+}
+]
+}
+]
+}
+}

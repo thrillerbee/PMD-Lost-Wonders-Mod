@@ -1,0 +1,184 @@
+﻿{
+"Version": "0.8.9.0",
+"Object": {
+"$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[RogueEssence.Data.EntrySummary, RogueEssence]], System.Private.CoreLib",
+"fennekin": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Fennekin",
+"LocalTexts": {
+"ja": "フォッコ",
+"ko": "푸호꼬",
+"zh-hant": "火狐狸",
+"fr": "Feunnec",
+"de": "Fynx",
+"es": "Fennekin",
+"it": "Fennekin",
+"ja-jp": "フォッコ",
+"zh-hans": "火狐狸"
+}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Fennekin",
+"LocalTexts": {
+"ja": "フォッコ",
+"ko": "푸호꼬",
+"zh-hant": "火狐狸",
+"fr": "Feunnec",
+"de": "Fynx",
+"es": "Fennekin",
+"it": "Fennekin",
+"ja-jp": "フォッコ",
+"zh-hans": "火狐狸"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 653
+},
+"shinx": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Shinx",
+"LocalTexts": {
+"ja": "コリンク",
+"ko": "꼬링크",
+"zh-hant": "小貓怪",
+"fr": "Lixy",
+"de": "Sheinux",
+"es": "Shinx",
+"it": "Shinx",
+"ja-jp": "コリンク",
+"zh-hans": "小猫怪"
+}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Shinx",
+"LocalTexts": {
+"ja": "コリンク",
+"ko": "꼬링크",
+"zh-hant": "小貓怪",
+"fr": "Lixy",
+"de": "Sheinux",
+"es": "Shinx",
+"it": "Shinx",
+"ja-jp": "コリンク",
+"zh-hans": "小猫怪"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 403
+},
+"vulpix": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Vulpix",
+"LocalTexts": {
+"ja": "ロコン",
+"ko": "식스테일",
+"zh-hant": "六尾",
+"fr": "Goupix",
+"de": "Vulpix",
+"es": "Vulpix",
+"it": "Vulpix",
+"ja-jp": "ロコン",
+"zh-hans": "六尾"
+}
+},
+"Released": true,
+"Temporary": false
+},
+{
+"Name": {
+"DefaultText": "Alolan Vulpix",
+"LocalTexts": {
+"ja": "",
+"ko": "",
+"zh-hant": "",
+"fr": "Goupix d'Alola",
+"de": "Alola Vulpix",
+"es": "",
+"it": "",
+"ja-jp": "",
+"zh-hans": ""
+}
+},
+"Released": true,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Vulpix",
+"LocalTexts": {
+"ja": "ロコン",
+"ko": "식스테일",
+"zh-hant": "六尾",
+"fr": "Goupix",
+"de": "Vulpix",
+"es": "Vulpix",
+"it": "Vulpix",
+"ja-jp": "ロコン",
+"zh-hans": "六尾"
+}
+},
+"Released": true,
+"Comment": "",
+"SortOrder": 37
+},
+"kotora": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Kotora",
+"LocalTexts": {}
+},
+"Released": false,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Kotora",
+"LocalTexts": {}
+},
+"Released": false,
+"Comment": "data copied from shinx. Please update (and rename?)",
+"SortOrder": 1026
+},
+"mikon": {
+"$type": "RogueEssence.Data.MonsterEntrySummary, RogueEssence",
+"Forms": [
+{
+"Name": {
+"DefaultText": "Kittrio",
+"LocalTexts": {}
+},
+"Released": false,
+"Temporary": false
+}
+],
+"Name": {
+"DefaultText": "Kittrio",
+"LocalTexts": {}
+},
+"Released": false,
+"Comment": "data copied from fennekin. Please update",
+"SortOrder": 0
+}
+}
+}

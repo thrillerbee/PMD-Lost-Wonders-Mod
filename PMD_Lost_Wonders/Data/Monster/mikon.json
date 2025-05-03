@@ -1,0 +1,78 @@
+﻿{
+"Version": "0.8.9.0",
+"Object": {
+"$type": "RogueEssence.Data.MonsterData, RogueEssence",
+"Name": {
+"DefaultText": "Kittrio",
+"LocalTexts": {}
+},
+"Released": false,
+"Comment": "data copied from fennekin. Please update",
+"Title": {
+"DefaultText": "Fox Pokémon",
+"LocalTexts": {}
+},
+"IndexNum": 0,
+"EXPTable": "medium_slow",
+"SkillGroup1": "field",
+"SkillGroup2": "amorphous",
+"JoinRate": 20,
+"PromoteFrom": "",
+"Promotions": [],
+"Forms": [
+{
+"$type": "PMDC.Data.MonsterFormData, PMDC",
+"Released": false,
+"Generation": 0,
+"GenderlessWeight": 0,
+"MaleWeight": 2,
+"FemaleWeight": 6,
+"BaseHP": 40,
+"BaseAtk": 45,
+"BaseDef": 40,
+"BaseMAtk": 62,
+"BaseMDef": 60,
+"BaseSpeed": 60,
+"ExpYield": 61,
+"Height": 0.4,
+"Weight": 9.4,
+"Personalities": [
+0,
+31
+],
+"TeachSkills": [
+{
+"Skill": "flamethrower"
+}
+],
+"SharedSkills": [
+{
+"Skill": "hypnosis"
+}
+],
+"SecretSkills": [
+{
+"Skill": "fire_pledge"
+}
+],
+"FormName": {
+"DefaultText": "Kittrio",
+"LocalTexts": {}
+},
+"Temporary": false,
+"PromoteForm": 0,
+"Element1": "fire",
+"Element2": "none",
+"Intrinsic1": "flash_fire",
+"Intrinsic2": "none",
+"Intrinsic3": "drought",
+"LevelSkills": [
+{
+"Level": 1,
+"Skill": "ember"
+}
+]
+}
+]
+}
+}
